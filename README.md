@@ -11,5 +11,6 @@
 - 任务：依托联合国咨商平台，服务国家战略；传播中国声音，汇聚全球力量，共建共享全球创新生态。
 
 <div align=center>
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/c0c8ebfa-2753-4d82-ac07-1e4e3a48634a" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/2e00d44e-ac86-4a4e-a3e4-ded962e2139e" />
 </div>
+
